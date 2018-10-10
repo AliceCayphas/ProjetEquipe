@@ -1,0 +1,4 @@
+yo = moi
+soy = suis
+una =une
+programadora = :(
