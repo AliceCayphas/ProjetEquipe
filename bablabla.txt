@@ -1,4 +1,4 @@
 yo = moi
-soy = suis
+soya = sauce soja
 una =une
 programadora = :(
