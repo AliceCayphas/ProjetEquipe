@@ -1,0 +1,3 @@
+file = archivo
+chat = gato
+chien = perro
