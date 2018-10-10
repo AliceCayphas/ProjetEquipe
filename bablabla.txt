@@ -1,4 +1,4 @@
 yo = moi
-soy = suis
-una =une
+soy = serait
+una = chimichanga
 programadora = :(
