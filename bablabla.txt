@@ -3,4 +3,5 @@ soya = sauce soja
 una =une
 soy = serait
 una = chimichanga
+avocat = aguacate 
 programadora = programmer
